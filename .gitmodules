@@ -1,0 +1,3 @@
+[submodule "chlid/childComponent"]
+	path = chlid/childComponent
+	url = https://github.com/huangxiaohua123/childComponent.git
